@@ -2,5 +2,10 @@
   "dependencies": {
     "chart.js": "^4.4.1",
     "chartkick": "^5.0.1"
-  }
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "scripts": {}
 }
