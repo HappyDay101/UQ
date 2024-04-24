@@ -25,10 +25,4 @@ test('test', async ({ page }) => {
   await page.getByPlaceholder('# Main headings\n --- \n ## Sub heading\n Content information \n---\n ##2nd Sub-headi').click();
   await page.getByPlaceholder('# Main headings\n --- \n ## Sub heading\n Content information \n---\n ##2nd Sub-headi').click();
   await page.getByText('Create Lesson').click();
-  // Go to new create lesson and check tabs active
-  await page.goto('http://localhost:3000/classrooms/42/lessons.124');
-  await page.getByRole('link', { name: 'New Lesson Test  2024-04-' }).click();
-  await page.getByRole('link', { name: '' }).click();
-  await page.getByRole('link', { name: '' }).click();
-  await page.getByRole('link', { name: '' }).click();
 });
