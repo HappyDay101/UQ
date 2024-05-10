@@ -8,11 +8,11 @@ An EduTech AI app built in a team of 3 people that aids students’ learning by 
 - AI can further create supplementary lessons for the students who are scoring 50% or less, they can toggle the feature in the original lesson
 
 ### Login info
-1. Teacher:
-   email: abc@abc.com
-   password: passwrod
-2. Student:
-   email: student@abc.com
+1. ### Teacher</br>
+   email: abc@abc.com</br>
+   password: password</br>
+2. ### Student</br>
+   email: student@abc.com</br>
    password: password1
 
 ## Screenshots
