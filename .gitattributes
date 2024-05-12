@@ -8,5 +8,5 @@ vendor/* linguist-vendored
 
 # Ignore linguist html
 .html linguist-detectable=false
-.erb linguist-language=Ruby
+.html.erb linguist-language=Ruby
 static/* linguist-vendored
